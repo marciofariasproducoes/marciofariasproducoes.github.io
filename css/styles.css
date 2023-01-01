@@ -12188,6 +12188,7 @@ margin-left:0;
 .producoes{  
   display: flex;  
   justify-content: center;
+  margin-top: 20px;
 } 
 
 .producoes img{  
